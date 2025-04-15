@@ -18,6 +18,14 @@ A aplicação permite que o usuário visualize o saldo da conta, receba valores,
 - ✅ Recebimento de valores
 - ✅ Transferência de valores
 - ✅ Finalização do programa
+  
+## 👨‍💻 Autor
+
+Feito por **Petterson Oliveira**  
+Aluno do programa **Oracle Next Education - ONE** 🚀  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pettersonoliveirati/)  
+📁 [GitHub](https://github.com/PettersonnOliveira)  
 
 ## 📷 Demonstração
 
